@@ -2,6 +2,15 @@
 
 Tools
 
+## Ops
+
+- mosh
+
+    Replaces interactive SSH. Instant keystroke response, robust to roaming.
+
+    两边装一下 mosh，然后和 ssh 一样用就好。很畅快。
+
+
 ## Node.js modules
 
 - benchmark
