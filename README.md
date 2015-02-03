@@ -47,3 +47,7 @@ Tools
 
 - http_load
 
+## Windows 常用软件
+
+- shadowsocks-csharp
+
