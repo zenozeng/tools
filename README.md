@@ -11,6 +11,12 @@ Tools
     两边装一下 mosh，然后和 ssh 一样用就好。很畅快。
 
 
+- duplicity
+
+    https://xysun.me/2014/04/19/backup-web-server-using-duplicity-and-dropbox/
+
+    不错的备份工具
+
 ## Node.js modules
 
 - benchmark
