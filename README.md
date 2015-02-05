@@ -49,5 +49,10 @@ Tools
 
 ## Windows 常用软件
 
+- Onenote (Desktop)
+
+    值得一提的是，Onenote 的截图工具虽然在 metro 下不会有蒙上一层的感觉，
+    但是截图是有效的！你要从桌面侧开始截图，然后移动到 metro 那边，这样就可以了。
+
 - shadowsocks-csharp
 
